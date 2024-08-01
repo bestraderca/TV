@@ -292,7 +292,7 @@
 			"changeable": 0,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": "proxy",
+			"ext": "0$$$proxy",
 			"style": {
 				"type": "rect",
 				"ratio": 1.485
