@@ -135,6 +135,242 @@
         "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"
     }
 },
+{
+            "key": "KanAV",
+            "name": "🔞KanAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "主页url": "https://kanav.info/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"video-item\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#自拍泄密$30#探花约炮$31#主播录制$32#动漫番剧$20#里番$25#泡面番$26#Motion Anime$27#3D动画$28#同人作品$29"
+            }
+        },
+{
+            "key": "Javmulu",
+            "name": "🔞Jav目录大全(磁力)",
+            "type": 3,
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "api": "csp_XBPQ",
+            "style": {
+                "type": "rect",
+                "ratio": 0.75
+            },
+            "timeout": 60,
+            "ext": {
+                "数组": "text-decoration-none&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "页面代理": "127.0.0.1:10172",
+                "播放数组": "javmulu-style-table text-center&&</tbody>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "分类": "已有磁力$0#高清$1#字幕$2",
+                "分类url": "https://javmulu.cc/magnet-share/index?tag_type_search={cateId}&page={catePg}"
+            }
+        },
+{
+            "key": "13AV",
+            "name": "🔞13AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "直接播放": "1",
+                "数组": "vodlist_thumb lazyload\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://13av.com/vodtype/{cateId}-{catePg}",
+                "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24"
+            }
+        },
+{
+            "key": "avge",
+            "name": "🔞avge",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://avgle.to",
+                "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "class=\"title\"><a*>&&</a>",
+                "链接": "<a href=\"&&\"",
+                "直接播放": "1",
+                "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
+                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
+            }
+        },
+{
+    "key": "玩偶妹妹",
+    "name": "玩偶妹妹",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+  "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+    "ext": {
+        "主页url": "https://urcccg.dbtav9.today/cn/home/web/",
+        "直接播放": "1",
+        //"数组": "class=\"thumb\"&&</div>",
+       // "图片": "src=\"&&\"",
+       //"标题": "title=\"&&\"",
+        //"链接": "href=\"&&\"",
+     //   "简介": "span.desc&&",
+    //    "主演": "",
+        "分类url": "https://urcccg.dbtav9.today/vodtype/{cateId}/{catePg}/;;a",
+        "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27#日韩视频$28#欧美视频$29#动漫视频$30#伦理影片$31"
+    }
+},
+{
+            "key": "bestjavporn",
+            "name": "BestJavPorn",
+            "type": 3,
+            "api": "csp_BESTJAVPORN",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://www4.bestjavporn.com",
+                "播放数组": "class=\"video-item\"&&</div>",
+                "播放列表": "<a&&</a>",
+                "播放标题": "class=\"video-title\"&&</a>",
+                "播放链接": "href=\"&&\"",
+                "播放链接前缀": "https://www4.bestjavporn.com",
+                "数组": "class=\"video-item&&class=\"video-item-play-button&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "class=\"video-title\">&&</a>",
+                "链接": "href=\"&&\"",
+                "分类": "影片$categories/all#日本AV$jav#日本无码$jav/uncensored#欧美$eu#VR$vr#种子$torrents#卡通动漫$cartoon#AV图片$albums",
+                "分类url": "https://www4.bestjavporn.com{cateId}/page/{catePg}"
+            }
+        },
+{
+            "key": "KanAV",
+            "name": "🔞KanAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "主页url": "https://kanav.info/",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "数组": "class=\"video-item\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://kanav.info/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#自拍泄密$30#探花约炮$31#主播录制$32#动漫番剧$20#里番$25#泡面番$26#Motion Anime$27#3D动画$28#同人作品$29"
+            }
+        },
+{
+            "key": "av01",
+            "name": "💗┃💋AV01┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "playerType": 2,
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "ext": {
+                "数组": "class=\"col-sm-6 col-md-4&&class=\"duration&&</div>",
+                "直接播放": "1",
+                "请求头": "手机",
+                "主页url": "https://www.av01.tv/tw",
+                "搜索url": "https://www.av01.tv/tw/search/videos?search_query={wd}&page={pg}",
+                "链接": "href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "页面代理": "",
+                "分类url": "https://www.av01.tv/tw/{cateId}?page={catePg}",
+                "分类": "BD有码$videos/bd-censored#BD无码$videos/bd-uncensored#有码$videos/censored#无码$videos/uncensored"
+            }
+        },
+{
+            "key": "av012",
+            "name": "💗┃💋AV012┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "playerType": 2,
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "ext": {
+                "数组": "class=\"item pc-one-info-panel one&&</a>",
+                "直接播放": "1",
+                "请求头": "手机",
+                "主页url": "https://iqqtv.net/",
+                "搜索url": "https://iqqtv.net/tw/search/videos?search_query={wd}&page={pg}",
+                "链接": "href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "页面代理": "",
+                "分类url": "https://iqqtv.ne/cat/{cateId}?page={catePg}",
+                "分类": "日本#欧美#自拍#春药#卡通"
+            }
+        },
+{
+            "key": "csp_XBPQ_JAV",
+            "name": "🔞JAV｜大全",
+            "type": 3,
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "热门推荐": "1",
+                "直接播放": "0",
+                "数组": "<div class=\"card mx-1\">&&</a>[替换:alt=\"watermark\">>空]",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "https://javmenu.cc/zh/search?wd={wd}&page={pg}",
+                "搜索模式": "1",
+                "搜索数组": "<div class=\"card mx-1\">&&</a>[替换:alt=\"watermark\">>空]",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索标题": "alt=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "播放二次截取": "id=\"pills-tabContent\">&&<div class=\"mb-3 col-12\">",
+                "播放数组": "<div class=\"single-video\">&&var server_count",
+                "状态": "更新：&&</span>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "简介：&&</span>",
+                "播放列表": "<video id=\"&&</script>",
+                "播放标题": "couhe",
+                "播放链接": "m3u8.push(\"&&\"",
+                "嗅探词": ".m3u8",
+                "播放请求头": "",
+                "分类": "国产$chinese#五码$uncensored#欧美$western#fc2$fc2#女同性$115#三级字幕$442#91探花$455#偷拍自拍$278#国产传媒$390#台湾涩情$412",
+                "分类url": "https://javmenu.cc/zh/{cateId}/online?page={catePg}",
+                "筛选": "263",
+                "页面代理": "127.0.0.1:10075"
+            }
+        },
       {
             "key": "Theporn",
             "name": "🔞Theporn",
