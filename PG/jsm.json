@@ -112,6 +112,15 @@
       }
     },
 {
+            "key": "美少女",
+            "name": "美少女",
+            "type": 0,
+            "api": "https://www.msnii.com/api/xml.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
     "key": "动漫之家",
     "name": "动漫之家",
     "type": 3,
