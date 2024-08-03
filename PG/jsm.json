@@ -96,6 +96,22 @@
         "分类": "最新影片$page/7#日韓無碼$rihanwuma/2#FC2無碼$fc2/8#日韓有碼$rihanyouma/3#中文字幕$jxny/11#國產AV$chinese-av-porn/17#自拍偷拍$surenzipai/4#歐美無碼$oumeiwuma/1#成人動漫$chengrendongman/5"}
     },
 {
+      "key": "airav",
+      "name": "Airav|XBPQ",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+      "ext": {
+      "直接播放": 1,
+      "分类url":"https://airav.io/list?idx={catePg}&sort={cateId}",
+        "分类": "最新發行$2#今日热门$3#本周热门$4#本月热门$5" 
+      }
+    },
+{
     "key": "动漫之家",
     "name": "动漫之家",
     "type": 3,
