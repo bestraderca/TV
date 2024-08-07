@@ -53,6 +53,28 @@
                 "分类": "最近更新$dm509/cn/new#新作上市$dm504/cn/release#今日热门$dm242/cn/today-hot#本周热门$dm167/cn/weekly-hot#本月热门$dm206/cn/monthly-hot#中文字幕$dm265/cn/chinese-subtitle#无码流出$dm558/cn/uncensored-leak#SIRO$dm23/cn/siro#LUXU$dm23/cn/siro#GANA$dm23/cn/siro#PRESTIGE PREMIUM$dm14/cn/maan#S-CUTE$dm23/cn/scute#ARA$dm19/cn/ara#FC2$dm94/cn/fc2#HEYZO$dm621/cn/heyzo#东京热$dm29/cn/tokyohot#一本道$dm39925/cn/1pondo#Caribbeancom$dm75695/cn/caribbeancom#Caribbeancompr$dm1200/cn/caribbeancompr#10musume$dm39286/cn/10musume#pacopacomama$dm663/cn/pacopacomama#Gachinco$dm135/cn/gachinco#XXX-AV$dm25/cn/xxxav#人妻斩$dm24/cn/marriedslash#顽皮 4610$dm19/cn/naughty4610#顽皮 0930$dm22/cn/naughty0930#麻豆传媒$dm31/cn/madou#TWAV$dm17/cn/twav#Furuke$dm14/cn/furuke"
             }
         },
+"key": "AVHAHA",
+            "name": "🔞AVHAHA",
+            "type": 3,
+            "api": "csp_XBPQ",
+"jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "首页": "亞洲AV影片$亞洲av影片",
+                "主页url": "http://www.avhaha.com/",
+                "数组": "\"col-md-4\"&&\"col-md-4\"",
+                "图片": "src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "class=\"views\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "http://www.avhaha.com/{cateId}/page/{catePg}/;;z",
+                "分类": "亞洲AV影片$category/亞洲av影片#歐美AV影片$category/歐美av影片#中文字幕AV$tag/中文字幕#日本無碼$tag/亞洲無碼"
+            }
+        },
         {
             "key": "18insta",
             "name": "💗┃💋18insta┃💠",
