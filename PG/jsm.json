@@ -93,6 +93,26 @@
                 "分类": "亞洲AV影片$category/亞洲av影片#歐美AV影片$category/歐美av影片#中文字幕AV$tag/中文字幕#日本無碼$tag/亞洲無碼"
             }
         },
+{
+    "key": "AV1688",
+    "name": "AV1688",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./lib/XBPQ.jar",
+    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+  
+        "分类url": "https://av1688.cc/category/{cateId}/page/{catePg}",
+        "分类": "有碼$有碼#無碼$無碼#FC2$fc2#素人$素人#分類$分類#國產$國產#中文$中文#破壞$破壞#動畫$動畫#巨乳$巨乳#制服$制服#强奸$强奸#人妻$人妻#乱伦$乱伦",
+     "数组": "<div class=\"post grid\">&&</a>",
+
+
+        "分类url": "https://av1688.cc/category/{cateId}/page/{catePg}"
+    }
+},
         {
             "key": "18insta",
             "name": "💗┃💋18insta┃💠",
