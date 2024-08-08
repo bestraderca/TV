@@ -53,6 +53,24 @@
                 "分类": "最近更新$dm509/cn/new#新作上市$dm504/cn/release#今日热门$dm242/cn/today-hot#本周热门$dm167/cn/weekly-hot#本月热门$dm206/cn/monthly-hot#中文字幕$dm265/cn/chinese-subtitle#无码流出$dm558/cn/uncensored-leak#SIRO$dm23/cn/siro#LUXU$dm23/cn/siro#GANA$dm23/cn/siro#PRESTIGE PREMIUM$dm14/cn/maan#S-CUTE$dm23/cn/scute#ARA$dm19/cn/ara#FC2$dm94/cn/fc2#HEYZO$dm621/cn/heyzo#东京热$dm29/cn/tokyohot#一本道$dm39925/cn/1pondo#Caribbeancom$dm75695/cn/caribbeancom#Caribbeancompr$dm1200/cn/caribbeancompr#10musume$dm39286/cn/10musume#pacopacomama$dm663/cn/pacopacomama#Gachinco$dm135/cn/gachinco#XXX-AV$dm25/cn/xxxav#人妻斩$dm24/cn/marriedslash#顽皮 4610$dm19/cn/naughty4610#顽皮 0930$dm22/cn/naughty0930#麻豆传媒$dm31/cn/madou#TWAV$dm17/cn/twav#Furuke$dm14/cn/furuke"
             }
         },
+{
+  "key": "NiceTV820",
+  "name": "NiceTV820",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+  "ext": {
+  //  "数组": "\"col-6 col-sm-4 col-lg-3 mb-3\"",
+    "图片": "data-src=\"&&\"",
+    "标题": "title=\"&&\"",
+    "链接": "href=\"&&\"",
+   "播放标题": "class=\"title\"",
+    "播放链接": "href=\"&&\"",
+    "直接播放": "1",
+    "分类": "探花AV$11#中文字幕$1#素人$15#国产AV$14#日本AV$3#日本有码$2",
+    "分类url": "https://www.nicetv820.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+  }
+},
 {"key": "AVHAHA",
             "name": "🔞AVHAHA",
             "type": 3,
