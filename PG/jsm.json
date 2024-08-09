@@ -113,6 +113,25 @@
         "分类url": "https://av1688.cc/category/{cateId}/page/{catePg}"
     }
 },
+{
+    "key": "avjoy",
+    "name": "avjoy",
+    "type": 3,
+    "api": "csp_pg",
+"jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/pg.jar",
+    "ext": {
+        "主页url": "https://avjoy.me/",
+        "数组": "\"class=post-list-image\"&&\"class=post-list-image\"",
+        "图片": "src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "播放标题": "",
+        "播放链接": "",
+        "直接播放": "1",
+        "分类": "Pornstar·AV$1#其他分类$2", // 你可以根据实际分类调整
+        "分类url": "https://avjoy.me/{cateId}/page/{catePg}.html"
+    }
+},
         {
             "key": "18insta",
             "name": "💗┃💋18insta┃💠",
