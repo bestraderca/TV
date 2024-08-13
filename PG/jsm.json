@@ -147,24 +147,15 @@
         "ext": {"首页 ": "浮力ASMR$/","主页url": "https://flasmr.lol/","分类url": "https://flasmr.lol/page/{catePg}/[https://flasmr.lol/];;z","分类": "浮力ASMR$/"}
     },
 {
-    "key": "avjoy",
-    "name": "🔞avjoy",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "./TV/PG/XBPQ.jar",
-    "ext": {
-        "主页url": "https://avjoy.me/",
-        "数组": "\"class=post-list-image\"&&\"class=post-list-image\"",
-        "图片": "src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "播放标题": "",
-        "播放链接": "",
-        "直接播放": "1",
-        "分类": "Pornstar·AV$1#其他分类$2#中文字幕$中文字幕#素人$amateur#肛交$anal#动漫$anime#Asian$asian#巨乳$big-tits#中国$china#COSPLAY$cosplay#日本$japan#日本jav$jav#韩国$korea#熟女$mature#女优$pornstar#女子校生$schoolgirl#SM$sm#少女$teen#无修正$uncensored#人妻$wife", 
-        "分类url": "https://avjoy.me/{cateId}/page/{catePg}.html"
-    }
-},
+      "key": "sexBJcam",
+      "name": "🔞🎥sexBJcam",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./lib/XBPQ.jar",
+      "timeout": 120,
+      "style": {"type": "rect","ratio": 1.5},
+      "ext": {"页面代理": "127.0.0.1:10172","数组": "<article&&</article>","直接播放":"1","图片": "data-src=\"&&\"","分类url":"https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest","分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate"}
+    };
         {
             "key": "18insta",
             "name": "💗┃💋18insta┃💠",
