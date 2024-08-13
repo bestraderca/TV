@@ -135,8 +135,8 @@
            "searchable": 1,
            "quickSearch": 1,
            "filterable": 1,
-           "jar": "./jar/Yoursmile2.jar",
-           "ext": "./json/GAOAA.json"},
+           "jar": "./Yoursmile2.jar",
+           "ext": "./GAOAA.json"},
 {
       "key": "浮力ASMR",
       "name": "🔞浮力ASMR",
