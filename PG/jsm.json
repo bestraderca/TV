@@ -125,6 +125,18 @@
                 "分类": "tsuki$1#jeehyeon$13#YeonHwa$2#KYUL$3#ChoiApple$4#클로이 요가 Chloe YOGA$5#jiyoung$12#임제리 IMJERRY LOOKBOOK$7#Ajin lookbook$8#엔픽컴퍼니 Official$9#Saki Vlog$10#HAATSSOl 햇쏠 LOOKBOOK VLOGER$11#yunji$14#GGotBBang TV$15#슬렌서아 Slenn Seoah$6"
             }
         },
+{"key": "csp_xBPQ_GAOAA",
+           "name": "GAOAA",
+           "type": 3,     
+           "style": {
+           "type": "rect",
+           "ratio": 1.433},
+           "api": "csp_xBPQ",    
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "jar": "./jar/Yoursmile2.jar",
+           "ext": "./json/GAOAA.json"},
 {
       "key": "浮力ASMR",
       "name": "🔞浮力ASMR",
