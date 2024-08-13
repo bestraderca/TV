@@ -151,7 +151,7 @@
     "name": "🔞avjoy",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+    "jar": "./TV/PG/XBPQ.jar",
     "ext": {
         "主页url": "https://avjoy.me/",
         "数组": "\"class=post-list-image\"&&\"class=post-list-image\"",
