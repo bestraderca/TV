@@ -327,7 +327,7 @@
       "style": {"type": "rect","ratio": 1.5},
         "ext": {"首页 ": "浮力ASMR$/","主页url": "https://flasmr.lol/","分类url": "https://flasmr.lol/page/{catePg}/[https://flasmr.lol/];;z","分类": "浮力ASMR$/"}
     },
-"key": "av01",
+{"key": "av01",
             "name": "🔞AV01",
             "type": 3,
             "api": "csp_XBPQ",
