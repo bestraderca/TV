@@ -327,29 +327,6 @@
       "style": {"type": "rect","ratio": 1.5},
         "ext": {"首页 ": "浮力ASMR$/","主页url": "https://flasmr.lol/","分类url": "https://flasmr.lol/page/{catePg}/[https://flasmr.lol/];;z","分类": "浮力ASMR$/"}
     },
- {
-            "key": "av01",
-            "name": "💗┃💋AV01┃💠",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-            "playerType": 2,
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            },
-            "ext": {
-                "数组": "class=\"col-sm-6 col-md-4&&class=\"duration&&</div>",
-                "直接播放": "1",
-                "请求头": "手机",
-                "主页url": "https://www.av01.tv/tw",
-                "搜索url": "https://www.av01.tv/tw/search/videos?search_query={wd}&page={pg}",
-                "链接": "href=\"&&\"",
-                "图片": "data-src=\"&&\"",
-                "分类url": "https://www.av01.tv/tw/{cateId}?page={catePg}",
-                "分类": "BD有码$videos/bd-censored#BD无码$videos/bd-uncensored#有码$videos/censored#无码$videos/uncensored/#FC2$videos/bd"
-            }
-        },
         {
             "key": "sexBJcam",
             "name": "🔞🎥sexBJcam",
