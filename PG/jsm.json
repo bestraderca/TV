@@ -331,7 +331,7 @@
             "name": "🔞AV01",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
             "playerType": 2,
             "style": {
                 "type": "rect",
