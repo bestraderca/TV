@@ -54,6 +54,38 @@
             }
         },
 {
+    "key": "javxxx",
+    "name": "🎃javxxx┃AV",
+    "type": 3,
+    "api": "csp_JAVXXX",
+    "ext": {
+        "分类url": "https://www5.javxxx.me/zh/type/{cateId}/page/{catePg}.html",
+        "分类": "有碼$censored#無碼$uncensored#素人$amateur#女優$pornstars",
+        "二次截取": "<div class=\"movie-list\">&&<div class=\"pagination\">",
+        "数组": "<a class=\"movie-box\"&&</a>",
+        "副标题": "",
+        "链接": "href=\"&&\"",
+        "线路二次截取": "<div class=\"movie-info\">&&<div class=\"movie-thumbs\">",
+        "线路数组": "<div class=\"video-tags\">&&</div>",
+        "播放链接": "href=\"&&\"",
+        "播放链接前缀": "https://www5.javxxx.me",
+        "跳转播放链接": "src=\"&&\"",
+        "影片类型": "Genre",
+        "影片年代": "Release Year",
+        "影片地区": "Area",
+        "导演": "Director",
+        "主演": "Actors",
+        "简介": "Description",
+        "搜索url": "https://www5.javxxx.me/zh/search/**/page/{catePg}.html",
+        "搜索模式": "精准",
+        "搜索数组": "<a class=\"movie-box\"&&</a>",
+        "搜索图片": "img&&src",
+        "搜索标题": "a:eq(1)&&Text",
+        "搜索副标题": "",
+        "搜索链接": "href=\"&&\""
+    }
+},
+{
   "key": "NiceTV820",
   "name": "NiceTV820",
   "type": 3,
