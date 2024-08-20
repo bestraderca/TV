@@ -179,22 +179,23 @@
     }
 },
 {
-      "key": "av影视",
-      "name": "av影视|XBPQ",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
+        "key": "AV影院",
+        "name": "AV影院",
+        "type": 3,
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+            "图片": "data-src=\"&&\"",
+            "标题": "title=\"&&\"",
+            "链接": "href=\"&&\"",
+            "主页url": "https://wyaslcwgroup.cfd/",
+            "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16",
+            "分类url": "https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+        }
     },
-      "ext": {
-       "图片": "data-src=\"&&\"",
-               "直接播放": "1",
-      "分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-        "分类": "国产视频$1#主播$2#黑料$3#中文$6#国产传媒$7#制服$12#抖音$15#三级$17#AV解说$18#日本有码$8#日本无码$9#强奸乱轮$11#动漫$13#明星换脸$14#女优明星$16" 
-      }
-       },
 {
   "key": "ppp",
             "name": "玩偶表姐",
@@ -419,25 +420,25 @@
                 "分类": "BD有码$videos/bd-censored#BD无码$videos/bd-uncensored#有码$videos/censored#无码$videos/uncensored/#FC2$videos/bd"
             }
         },
-        {
-            "key": "sexBJcam",
-            "name": "🔞🎥sexBJcam",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
-            "timeout": 120,
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "数组": "<article&&</article>",
-                "直接播放": "1",
-                "图片": "data-src=\"&&\"",
-                "分类url": "https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest",
-                "分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate"
-            }
-        },
+    {
+    "key": "sexBJcam",
+    "name": "🔞🎥sexBJcam",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+    "timeout": 120,
+    "style": {
+        "type": "rect",
+        "ratio": 1.5
+    },
+    "ext": {
+        "数组": "<article&&</article>",
+        "直接播放": "1",
+        "图片": "data-src=\"&&\"",
+        "分类url": "https://sexbjcam.com/category/{cateId}/page/{catePg}/?filter=latest",
+        "分类": "chinese-gril$chinese-gril#korean-bj$korean-bj#chaturbate$chaturbate"
+    }
+},
 {
             "key": "MissAV",
             "name": "🔞MissAV",
