@@ -35,7 +35,7 @@
             "name": "🔞ThisAV",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./PG/lib/XBPQ.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
