@@ -10,6 +10,7 @@
 			"changeable": 0,
 			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lib/tokenm.json"
 		},
+{"key":"TGYunPan","name":"TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"./lib/tokenm.json$$$https://t.me/$$$hao115,Aliyundrive_Share_Channel,kuakeyun$$$noproxy$$$1"},
 		{
 			"key":"Youtube",
 			"name":"Youtube",
