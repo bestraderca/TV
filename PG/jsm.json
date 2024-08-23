@@ -157,16 +157,23 @@
                 "分类url": "https://sex166.net/video-cid-{cateId}.html?page={catePg}"
                 }
     },
-{
-"key":"采集KK",
-"name":"采集KK",
-"type":1,
-"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-"searchable":1,
-"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-"changeable":1,
-"categories":["邵氏电影","西方伦理","港台三级","韩国伦理","日本伦理","伦理","写真热舞","短文爽剧","反转爽剧","古装仙侠","女频恋爱","年代穿越","脑洞悬疑","现代都市","4K电影"]
-},
+            "key": "索尼采集",
+            "name": "索尼采集",
+            "type": 0,
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "伦理",
+                "港台三级",
+                "韩国伦理",
+                "西方伦理",
+                "日本伦理",
+                "两性课堂",
+                "写真热舞"
+            ]
+        },
 	 {
             "key": "千百撸",
             "name": "千百撸|学日语",
