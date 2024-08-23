@@ -172,6 +172,7 @@
             "name": "🔞女优",
             "type": 3,
             "api": "csp_xBPQ",
+	    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
