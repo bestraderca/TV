@@ -172,12 +172,11 @@
             "name": "🔞女优",
             "type": 3,
             "api": "csp_xBPQ",
-	    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./女优.json",
-            "jar": "./Yoursmile2.jar"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/女优.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/Yoursmile2.jar"
         },
 	 {
             "key": "千百撸",
