@@ -158,14 +158,15 @@
                 }
     },
 {
-"key": "采集kk",
-"name": "采集kk",
-"type": 1,
-"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-
+"key":"采集KK",
+"name":"采集KK",
+"type":1,
+"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+"searchable":1,
 "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
-"searchable": 1,
-"changeable": 1
+"changeable":1,
+"categories":["邵氏电影","4K电影","动作片","喜剧片","恐怖片","科幻片","爱情片","剧情片","战争片","动画片","纪录片","理论片","连续剧","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","动漫片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","综艺片","大陆综艺","港台综艺","日韩综艺","欧美综艺"]
+//"categories":["西方伦理","港台三级","韩国伦理","日本伦理"]
 },
 	 {
             "key": "千百撸",
