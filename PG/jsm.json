@@ -157,6 +157,16 @@
                 "分类url": "https://sex166.net/video-cid-{cateId}.html?page={catePg}"
                 }
     },
+{
+"key": "采集kk",
+"name": "采集kk",
+"type": 1,
+"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+
+"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",
+"searchable": 1,
+"changeable": 1
+},
 	{"key":"微密猫",
 "name":"🔞微密猫",
 "type":3,
