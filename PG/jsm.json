@@ -167,6 +167,74 @@
 "searchable": 1,
 "changeable": 1
 },
+	 {
+            "key": "女优",
+            "name": "🔞女优",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "./女优.json",
+            "jar": "./Yoursmile2.jar"
+        },
+	 {
+            "key": "千百撸",
+            "name": "千百撸|学日语",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "站名": "222av.me",
+                "主页url": "http://041920.222av.me",
+                "首页": "最新课程",
+                "数组": "col-sm-6 col-md-4 col-lg-4&&<div class=\"video-added\">[不包含:88A8#东亚娱乐城]",
+                "链接": "href=\"&&\"",
+                "嗅探词": "http://m3u8.361lu.com/us.php?",
+                "分类url": "/videos/{cateId}?page={catePg};;z",
+                "分类": "全部&3D&素人&日本女优&自拍&金发洋物",
+                "分类值": "/&3d&amateur&japanese&selfie&western"
+            }
+        },
+	{
+            "key": "小幺女|床吧",
+            "name": "小幺女",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "站名": "小幺女",
+                "主页url": "https://xxynhkaa1.buzz/sort/id/245.html",
+                "数组": "class=\"vod_box\">&&</li>",
+                "图片": "url('&&'",
+                "标题": "title=\"&&\"",
+                "链接": "https://xxynhkaa1.buzz/detail+href='/display&&'",
+                "跳转播放链接": "var playUrl = '&&'",
+                "直接播放": "1",
+                "嗅探词": "index.m3u8",
+                "分类数组": "<a&&</a",
+                "分类标题": "target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]",
+                "分类ID": "href=\"/sort/id/&&.html\"",
+                "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
+            }
+        },
+	{
+            "api": "./吃瓜大队.py",
+            "filterable": 1,
+            "key": "吃瓜大队py",
+            "name": "吃瓜大队py🔞(梯子)",
+            "quickSearch": 1,
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "type": 3
+        },	
 	{"key":"微密猫",
 "name":"🔞微密猫",
 "type":3,
