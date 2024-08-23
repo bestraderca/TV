@@ -157,7 +157,7 @@
                 "分类url": "https://sex166.net/video-cid-{cateId}.html?page={catePg}"
                 }
     },
-            "key": "索尼采集",
+            {"key": "索尼采集",
             "name": "索尼采集",
             "type": 0,
             "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
