@@ -168,17 +168,6 @@
 "changeable": 1
 },
 	 {
-            "key": "女优",
-            "name": "🔞女优",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/女优.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
-        },
-	 {
             "key": "千百撸",
             "name": "千百撸|学日语",
             "type": 3,
