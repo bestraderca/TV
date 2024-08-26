@@ -79,6 +79,26 @@
 		"分类标题":">&&<",
 		"分类ID":"/go/index.php/vod/type/id/&&.html",
 		"分类url":"https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+{ "key": "13AV",
+            "name": "🔞13AV",
+            "type": 3,
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "api": "csp_XBPQ",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "直接播放": "1",
+           
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://13av.com/t/{cateId}?order=&page={catePg}",
+                "页面代理": "127.0.0.1:10172",
+                "分类": "日本$日本#国产$國產AV#自拍流出$自拍流出#探花$探花#OnlyFans$OnlyFans"
+            }
+        },
 		{"key":"py_liushoushaofu",
 "name":"🤪 留守少妇(T4_py)",
 "type":4,
