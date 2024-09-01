@@ -78,6 +78,22 @@
 		"分类标题":">&&<",
 		"分类ID":"/go/index.php/vod/type/id/&&.html",
 		"分类url":"https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
+"key": "ROOAV",
+            "name": "🔞ROOAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://rooav9.one/",
+                "直接播放": "1",
+                "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
+                "分类url": "https://rooav9.one/index.php/vod/type/id/{cateId}.html",
+                "分类": "日韩AV$1#日本无码$6#国产视频$2#欧美$3#色情动漫$4"
+            }
+        },
  {
     "key": "13AV",
     "name": "🔞13AV",
