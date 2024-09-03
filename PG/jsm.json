@@ -78,7 +78,7 @@
 		"分类标题":">&&<",
 		"分类ID":"/go/index.php/vod/type/id/&&.html",
 		"分类url":"https://nfsf8kj.nfsf-a2.buzz/go/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},
-"key": "ROOAV",
+{"key": "ROOAV",
             "name": "🔞ROOAV",
             "type": 3,
             "api": "csp_XBPQ",
@@ -94,32 +94,6 @@
                 "分类": "日韩AV$1#日本无码$6#国产视频$2#欧美$3#色情动漫$4"
             }
         },
- {
-            "key": "13AV",
-            "name": "🔞13AV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://13av.com/",
-                "过滤词": ".mp4",
-                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
-                "图片": "data-src=\"&&\"",
-                "标题": "href=\"*\">&&</a>",
-                "副标题": "class=\"label\">&&</span>",
-                "链接": "href=\"&&\"",
-                "简介": "⚠️慢点撸，皮要掉了！！！",
-                "分类url": "https://13av.com/type/{cateId}/{catePg}.html;;z",
-                "分类": "角色剧情$5#直接开啪$6#主奴调教$7#凌辱快感$8#无码影视$24#中文字幕$9#制服诱惑$10#丝袜美腿$21#男友视角$20#多P群交$22#盗摄偷拍$23#女同欢愉$25"
-            }
-        },
-        "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24"
-    }
-},
 		{"key":"py_liushoushaofu",
 "name":"🤪 留守少妇(T4_py)",
 "type":4,
@@ -532,20 +506,6 @@
 "api":"https://www.md91.cc/api.php/provide/vod/",
 "style":{"ratio":1.7}},
 {
-            "key": "Jable",
-            "name": "㊙️Jable",
-            "type": 3,
-            "api": "csp_Jable",
-"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            }
-        },
-{
             "key": "绝美视频",
             "name": "🔞绝美视频",
             "type": 3,
@@ -646,6 +606,35 @@
             "changeable": 0,
             "ext": "./lib/tokenm.json$$$null$$$1"
         },
+{
+            "key": "Jable",
+            "name": "㊙️Jable",
+            "type": 3,
+            "api": "csp_Jable",
+"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            }
+        },
+{
+			"key": "Supjav",
+			"name": "🔞Supjav┃科学",
+			"type": 3,
+			"api": "csp_Supjav",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "proxy",
+			"style": {
+				"type": "rect",
+				"ratio": 1.485
+			},
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lib/xc.jar"
+		},
 {
             "key": "avjoy",
             "name": "avjoy",
@@ -1284,21 +1273,6 @@
 				"type": "rect",
 				"ratio": 1.485
 			}
-		},
-		{
-			"key": "Supjav",
-			"name": "🔞Supjav┃科学",
-			"type": 3,
-			"api": "csp_Supjav",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "proxy",
-			"style": {
-				"type": "rect",
-				"ratio": 1.485
-			},
-			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lib/xc.jar"
 		},
 		{
 			"key": "AvTime",
