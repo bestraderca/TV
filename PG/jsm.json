@@ -815,26 +815,6 @@
                 "分类url": "https://javmulu.cc/magnet-share/index?tag_type_search={cateId}&page={catePg}"
             }
         },
-{
-            "key": "13AV",
-            "name": "🔞13AV",
-            "type": 3,
-            "api": "csp_XBPQ",
-"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "直接播放": "1",
-                "数组": "vodlist_thumb lazyload\"&&</div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "分类url": "https://13av.com/vodtype/{cateId}-{catePg}",
-                "分类": "中文字幕$28#国产$20#日本有码$21#日本无码$22#欧美$23#动漫$24"
-            }
-        },
 {"key": "爱你短剧",
             "name": "💕爱你短剧",
             "type": 3,
