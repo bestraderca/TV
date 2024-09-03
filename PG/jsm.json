@@ -749,6 +749,29 @@
         "分类": "国产$1#日本$2#动漫$3#韩国主播$24#欧美$4#VR视频$23#男同性恋$21#女同性恋$22#主播大秀$7#自拍偷拍$6#AI换脸$8#传媒原创$9#抖阴视频$10#网曝黑料$11#伦理三级$12#AV解说$20#SWAG$28#中文字幕$13#日本有码$14#日本无码$15"
     }
 },
+{
+            "key": "13AV",
+            "name": "🔞13AV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": {
+                "主页url": "https://13av.com/",
+                "过滤词": ".mp4",
+                "数组": "\"col-6 col-sm-4 col-lg-3\"&&\"col-6 col-sm-4 col-lg-3\"",
+                "图片": "data-src=\"&&\"",
+                "标题": "href=\"*\">&&</a>",
+                "副标题": "class=\"label\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "⚠️慢点撸，皮要掉了！！！",
+                "分类url": "https://13av.com/type/{cateId}/{catePg}.html;;z",
+                "分类": "角色剧情$5#直接开啪$6#主奴调教$7#凌辱快感$8#无码影视$24#中文字幕$9#制服诱惑$10#丝袜美腿$21#男友视角$20#多P群交$22#盗摄偷拍$23#女同欢愉$25"
+            }
+        },
 		{
     "key": "NiceAv",
     "name": "🔥NiceAv",
