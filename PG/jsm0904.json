@@ -78,17 +78,21 @@
       },
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/xc.jar"
     },
-    	{
-      "key": "csp_JavDb",
-      "name": "🧲JavDb",
+    	    {
+      "key": "JavDb",
+      "name": "🔞JavDb┃磁力",
       "type": 3,
       "api": "csp_JavDb",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-      "style": {"type": "rect","ratio": 1.5},
-      "ext": "./lib/tokenm.json$$$https://javdb368.com$$$proxy"
+      "timeout": 60,
+      "ext": "https://javdb366.com/$$$proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
     },
 	{
             "key": "csp_JavBus",
