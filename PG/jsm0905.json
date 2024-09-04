@@ -40,6 +40,41 @@
             "filterable": 1,
             "timeout": 60
         },
+        {
+      "key": "jable",
+      "name": "🔞jable┃在线",
+      "type": 3,
+      "jar": "https://2960.kstore.spachttps://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url= ",
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "ext": {
+        "直接播放": "1",
+        "搜索模式": "1",
+        "搜索url": "https://jable.tv/search/{wd}/",
+        "数组": "<div class=\"img-box cover-md\">&&</h6>",
+        "图片": "data-src=\"&&\"",
+        "标题": "class=\"title\">&&</a>",
+        "链接": "href=\"&&\"",
+        "链接前缀": "https://jable.tv",
+        "副标题": "<span class=\"label\">&&</span>",
+        "播放数组": "<h6&&</h6>",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "分类": "最近更新$latest-updates#最新上市$new-release#主奴调教$categories/bdsm#字幕$categories/chinese-subtitle#凌辱$categories/rape#制服$categories/uniform#角色$categories/roleplay#偷拍$categories/hidden-cam#无码解码$categories/uncensored#多P$categories/groupsex#丝袜$categories/pantyhose",
+        "分类url": "https://jable.tv/{cateId}/{catePg}/",
+        "免嗅": "0",
+        "嗅探词": ".m3u8#.mp4"
+      }
+    },
     {
       "key": "Supjav",
       "name": "🔞Supjav┃科学",
@@ -106,6 +141,17 @@
         "搜索url": "https://njav.xyz/zh/search?keyword={wd}",
         "分类url": "https://njav.xyz/zh/{cateId}?page={catePg}",
         "分类": "全新上市$new-release#最近更新$recent-update#推荐影片$recommended#vr影片$vr#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot"
+      }
+    },
+        {
+      "key": "top888",
+      "name": "🔞Top888┃科学",
+      "type": 3,
+      "api": "csp_Top888",
+      "ext": "0$$$proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
       }
     },
     {     
@@ -549,17 +595,7 @@
         "ratio": 1.33
       }
     },
-    {
-      "key": "top888",
-      "name": "🔞Top888┃科学",
-      "type": 3,
-      "api": "csp_Top888",
-      "ext": "0$$$proxy",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
+
     {
       "key": "Hanime",
       "name": "🔞Hanime┃科学",
@@ -757,103 +793,6 @@
         "搜索url": "https://3d-hentai.org/?s={wd}",
         "分类url": "https://3d-hentai.org{cateId}page/{catePg}/",
         "分类": "All$/#against-the-wall$/tag/against-the-wall/#anal$/tag/anal/#ahegao$/tag/ahegao/#big-ass$/tag/big-ass/#big-breasts$/tag/big-breasts/#from-behind$/tag/from-behind/#moaning$/tag/moaning/#male-pov$/tag/male-pov/#looking-at-viewer$/tag/looking-at-viewer/#vaginal-penetration$/tag/vaginal-penetration/#big-penis$/tag/big-penis/#blowjob$/tag/blowjob/#big-white-cock$/tag/big-white-cock/#big-thighs$/tag/big-thighs/#big-black-cock$/tag/big-black-cock/#tags不能播$/tag/"
-      }
-    },
-    {
-      "key": "JavDb",
-      "name": "🔞JavDb┃磁力",
-      "type": 3,
-      "api": "csp_JavDb",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 60,
-      "ext": "https://javdb366.com/$$$proxy",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "JavBus",
-      "name": "🔞JavBus┃磁力",
-      "type": 3,
-      "api": "csp_JavBus",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 60,
-      "ext": "https://www.cdnbus.shop$$$proxy",
-      "style": {
-        "ratio": 1.485
-      }
-    },
-
-    {
-      "key": "Cable",
-      "name": "🔞Cable┃科学",
-      "type": 3,
-      "api": "csp_Cable",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "proxy",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "Jable",
-      "name": "🔞Jable┃科学",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": 0,
-      "recordable": 0,
-      "ext": "proxy",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "jable",
-      "name": "🔞jable┃在线",
-      "type": 3,
-      "jar": "https://2960.kstore.spachttps://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url= ",
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "ext": {
-        "直接播放": "1",
-        "搜索模式": "1",
-        "搜索url": "https://jable.tv/search/{wd}/",
-        "数组": "<div class=\"img-box cover-md\">&&</h6>",
-        "图片": "data-src=\"&&\"",
-        "标题": "class=\"title\">&&</a>",
-        "链接": "href=\"&&\"",
-        "链接前缀": "https://jable.tv",
-        "副标题": "<span class=\"label\">&&</span>",
-        "播放数组": "<h6&&</h6>",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "播放链接": "href=\"&&\"",
-        "分类": "最近更新$latest-updates#最新上市$new-release#主奴调教$categories/bdsm#字幕$categories/chinese-subtitle#凌辱$categories/rape#制服$categories/uniform#角色$categories/roleplay#偷拍$categories/hidden-cam#无码解码$categories/uncensored#多P$categories/groupsex#丝袜$categories/pantyhose",
-        "分类url": "https://jable.tv/{cateId}/{catePg}/",
-        "免嗅": "0",
-        "嗅探词": ".m3u8#.mp4"
       }
     },
     {
