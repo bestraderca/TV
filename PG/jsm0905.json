@@ -30,6 +30,48 @@
         "ratio": 1.5
       }
     },
+    {
+      "key": "MissAV",
+      "name": "🔞MissAV┃科学",
+      "type": 3,
+      "api": "csp_Miss",
+      "changeable": 0,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
+    {
+      "key": "Supjav",
+      "name": "🔞Supjav┃科学",
+      "type": 3,
+      "api": "csp_Supjav",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "proxy",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/xc.jar"
+    },
+     {
+      "key": "Netflav",
+      "name": "🔞Netflav┃直连",
+      "type": 3,
+      "api": "csp_Netflav",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      }
+    },
     {     
             "key": "索尼采集",
             "name": "索尼采集",
@@ -482,20 +524,6 @@
       }
     },
     {
-      "key": "MissAV",
-      "name": "🔞MissAV┃科学",
-      "type": 3,
-      "api": "csp_Miss",
-      "changeable": 0,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "proxy",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
       "key": "top888",
       "name": "🔞Top888┃科学",
       "type": 3,
@@ -518,35 +546,7 @@
         "ratio": 0.75
       }
     },
-    {
-      "key": "Netflav",
-      "name": "🔞Netflav┃直连",
-      "type": 3,
-      "api": "csp_Netflav",
-      "searchable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
-    {
-      "key": "Supjav",
-      "name": "🔞Supjav┃科学",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "proxy",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      },
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/xc.jar"
-    },
-    {
+         {
       "key": "AvTime",
       "name": "🔞AvTime┃直连",
       "type": 3,
