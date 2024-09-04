@@ -94,22 +94,21 @@
         "ratio": 1.485
       }
     },
-	{
-            "key": "csp_JavBus",
-            "name": "🧲JavBus",
-            "type": 3,
-            "api": "csp_JavBus",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "ext": "./lib/tokenm.json$$$null$$$proxy"
-        },
+    {
+      "key": "JavBus",
+      "name": "🔞JavBus┃磁力",
+      "type": 3,
+      "api": "csp_JavBus",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "https://www.cdnbus.shop$$$proxy",
+      "style": {
+        "ratio": 1.485
+      }
+    },
      {
       "key": "Netflav",
       "name": "🔞Netflav┃直连",
