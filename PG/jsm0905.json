@@ -30,20 +30,16 @@
         "ratio": 1.5
       }
     },
-    {
-      "key": "MissAV",
-      "name": "🔞MissAV┃科学",
-      "type": 3,
-      "api": "csp_Miss",
-      "changeable": 0,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "proxy",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
+         {
+            "key": "Miss",
+            "name": "🔞MissAV┃科学",
+            "type": 3,
+            "api": "csp_Miss",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
     {
       "key": "Supjav",
       "name": "🔞Supjav┃科学",
@@ -113,16 +109,6 @@
                 "分类url": "https://13av.com/type/{cateId}/{catePg}.html;;z",
                 "分类": "角色剧情$5#直接开啪$6#主奴调教$7#凌辱快感$8#无码影视$24#中文字幕$9#制服诱惑$10#丝袜美腿$21#男友视角$20#多P群交$22#盗摄偷拍$23#女同欢愉$25"
             }
-        },
-     {
-            "key": "Miss",
-            "name": "Miss",
-            "type": 3,
-            "api": "csp_Miss",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60
         },
     {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
     {
