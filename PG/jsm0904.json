@@ -79,16 +79,17 @@
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/xc.jar"
     },
 {
-            "key": "csp_JavDb",
-            "name": "🔞🧲JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./lib/tokenm.json$$$null$$$1"
-        },
+      "key": "csp_JavDb",
+      "name": "🧲JavDb",
+      "type": 3,
+      "api": "csp_JavDb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {"type": "rect","ratio": 1.5},
+      "ext": "./lib/tokenm.json$$$https://javdb.com$$$127.0.0.1:10072"
+    },
 	{
 			"key": "JavBus",
 			"name": "🔞JavBus┃磁力",
