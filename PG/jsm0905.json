@@ -41,19 +41,28 @@
             "timeout": 60
         },
     {
-      "key": "Jable",
-      "name": "🔞Jable┃科学",
-     // "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": 0,
-      "recordable": 0,
-      //"ext": "proxy",
-      "style": {
-        "type": "rect",
-        "ratio": 1.485
-      }
-    },
+            "key": "Cable",
+            "name": "CableAV",
+            "type": 3,
+            "api": "csp_Cable",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60
+        },
+        {
+            "key": "Jable",
+            "name": "Jable",
+            "type": 3,
+            "api": "csp_Jable",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
     {
       "key": "Supjav",
       "name": "🔞Supjav┃科学",
