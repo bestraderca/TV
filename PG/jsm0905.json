@@ -78,7 +78,7 @@
       },
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/xc.jar"
     },
-    		{
+    				{
 			"key": "JavDb",
 			"name": "🔞JavDb┃磁力",
 			"type": 3,
@@ -88,6 +88,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
+			"ext": "https://javdb366.com/$$$proxy",
 			"style": {
 				"type": "rect",
 				"ratio": 1.485
@@ -103,6 +104,7 @@
 			"filterable": 1,
 			"changeable": 0,
 			"timeout": 60,
+			"ext": "https://www.cdnbus.shop$$$proxy",
 			"style": {
 				"ratio": 1.485
 			}
