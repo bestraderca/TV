@@ -87,7 +87,7 @@
             "filterable": 1,
             "changeable": 0,
             "timeout": 1801,
-            "ext": "https://javdb368.com/"
+            "ext": "./lib/tokenm.json$$$https://javdb368.com$$$127.0.0.1:10072"
         },
     {
       "key": "JavBus",
