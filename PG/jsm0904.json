@@ -157,8 +157,15 @@
         "分类": "全新上市$new-release#最近更新$recent-update#推荐影片$recommended#vr影片$vr#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot"
       }
     },
-        {"key": "18🈲直播","name": "🔞直播","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://2960.kstore.space/jar/香雅情.jar","ext": "https://2960.kstore.space/18/18直播一号.json"},
-        {
+   { "key": "秘密公寓", "name": "🔞私房TV[采集]", "type": 1,"api": "https://ijh.14mmgy.cc/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": [],"style": {"type": "rect","ratio": 1.6} },
+ {"key":"csp_XYQHiker_hanimi1","name": "🔞Hanime1(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/hanime1.json","style": {"type": "rect","ratio": 1.6}},
+ {"key":"csp_XYQHiker_动漫后宫","name": "🔞动漫后宫(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/动漫后宫.json","style": {"type": "rect","ratio": 1.6}},
+ {"key":"csp_XYQHiker_jiedm","name": "🔞jiedmAV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/jiedm.json","style": {"type": "rect","ratio": 1.6}},
+ {"key":"csp_XYQHiker_xtoons","name": "🔞Xtoons动漫(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/xtoons.json","style": {"type": "rect","ratio": 1.6}},
+ {"key":"csp_XYQHiker_动漫PRO","name": "🔞动漫PRO(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/动漫pro.json","style": {"type": "rect","ratio": 1.6}},
+ {"key":"csp_XYQHiker_ACG漫画网","name": "🔞ACG漫画网(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/acg漫画网.json","style": {"type": "rect","ratio": 1.33}},
+ {"key":"csp_XYQHiker_avbebe","name": "🔞AVbebe(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/avbebe.json","style": {"type": "rect","ratio": 1.33}},    
+    {
       "key": "top888",
       "name": "🔞Top888┃科学",
       "type": 3,
