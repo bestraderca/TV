@@ -178,7 +178,16 @@
                 "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/;;z",
                 "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
             }
-        },   
+        },
+    {"key":"csp_XYQHiker_云老婆",
+      "name": "🔞云老婆(XYQHiker)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/云老婆.json",
+      "style": {"type": "rect","ratio": 0.75}},
     {
       "key": "top888",
       "name": "🔞Top888┃科学",
