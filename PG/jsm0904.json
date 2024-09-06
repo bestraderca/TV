@@ -89,21 +89,22 @@
             "timeout": 1801,
             "ext": "./lib/tokenm.json$$$https://javdb368.com/$$$noproxy$$$1"
         },
-    {
-      "key": "csp_JavBus",
-      "name": "🔞JavBus┃磁力",
-      "type": 3,
-      "api": "csp_JavBus",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "timeout": 60,
-      "ext": "./lib/tokenm.json$$$https://www.cdnbus.shop/$$$noproxy$$$1"
-      "style": {
-        "ratio": 1.485
-      }
-    },
+     {
+            "key": "csp_JavBus",
+            "name": "🚌JavBus┃磁力",
+            "type": 3,
+            "api": "csp_JavBus",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "./lib/tokenm.json$$$null$$$proxy"
+        },
      {
       "key": "Netflav",
       "name": "🔞Netflav┃直连",
