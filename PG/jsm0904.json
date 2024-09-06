@@ -99,7 +99,7 @@
       "filterable": 1,
       "changeable": 0,
       "timeout": 60,
-      "ext": "https://www.cdnbus.shop$$$proxy",
+      "ext": "./lib/tokenm.json$$$https://www.cdnbus.shop$$$noproxy$$$1"
       "style": {
         "ratio": 1.485
       }
