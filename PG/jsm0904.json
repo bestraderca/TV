@@ -180,6 +180,24 @@
                 "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
             }
         },
+            {"key": "xvideos4中文",
+            "name": "🈲xvideos4中文",
+            "type": 3,
+            "api": "csp_XBPQ",
+"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "直接播放": "1",
+                "数组": "<li>&&</li>",
+                "链接": "href=\"&&\"",
+                "图片": " src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "播放链接前缀": "https://iktvoc.xvideos4.hair/",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",
+                "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"
+            }
+        },
             {"key": "蜜桃屯",
             "name": "🔞蜜桃屯",
             "type": 3,
