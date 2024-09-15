@@ -180,6 +180,23 @@
                 "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
             }
         },
+{
+            "key": "csp_XBPQ_蛙蛙",
+            "name": "蛙蛙福利",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+   "主页url": "https://www.wvod.tv/",
+                "数组": "hl-col-lg-2\"&&</a>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "简介：&&</li>",
+                "分类url": "https://www.wvod.tv/vodshow/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+ "分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$25#纪录片$24"}},
             {"key": "xvideos4中文",
             "name": "🈲xvideos4中文",
             "type": 3,
