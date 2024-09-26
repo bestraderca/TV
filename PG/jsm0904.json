@@ -224,7 +224,7 @@
 "style": {"ratio": 1.433},
 "searchable": 1,
 "filterable": 1,
-"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/182.jar",
+"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/182.jar"
 },
 { "key": "手鸡助手", "name": "手鸡助手", "type":3,"api":"csp_XBPQ", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/XBPQ.jar","ext":{"请求头": "手机",  "直接播放": "1",
    "分类url":"https://mcpg.sjzs199p.buzz/?mod=videos&cateid={cateId}&page={catePg}",
