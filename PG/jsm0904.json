@@ -1767,59 +1767,6 @@
         "分类ID": "/t/&&/"
       }
     },
- {
-            "key": "lf_js_p2p",
-            "name": "路飞💯磁力",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_p2p2_min.js"
-        },
-        {
-            "key": "lf_js_live",
-            "name": "路飞💯直播",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_live_min.js",
-            "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/js/PG/lf_live.txt"
-        },
-        {
-            "key": "lf_js_ikanbot",
-            "name": "🧠点播|路飞",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_ikanbot5_2_min.js"
-        },
-        {
-            "key": "push_agent",
-            "name": "🧠路飞 | 推送",
-            "type": 3,
-            "searchable": 0,
-            "changeable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_pushagent1_5_min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lib/tokenm.json"
-        },
-           {
-            "key": "lf_js_p2p2",
-            "name": "🧠路飞|磁搜",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 30,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_p2p2_min.js"
-        },
     {
       "key": "應用商店",
       "name": "應用商店",
