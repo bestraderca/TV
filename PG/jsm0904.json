@@ -1775,7 +1775,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lf_p2p2_min.js"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_p2p2_min.js"
         },
         {
             "key": "lf_js_live",
@@ -1785,8 +1785,8 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lf_live_min.js",
-            "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lf_live.txt"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_live_min.js",
+            "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/js/PG/lf_live.txt"
         },
         {
             "key": "lf_js_ikanbot",
@@ -1796,7 +1796,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lf_ikanbot4_min.js"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_ikanbot5_2_min.js"
         },
         {
             "key": "push_agent",
@@ -1806,7 +1806,7 @@
             "changeable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lf_pushagent1_5_min.js",
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_pushagent1_5_min.js",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lib/tokenm.json"
         },
            {
@@ -1818,7 +1818,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 30,
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/lf_p2p2_min.js"
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestraderca/TV/master/PG/js/lf_p2p2_min.js"
         },
     {
       "key": "應用商店",
