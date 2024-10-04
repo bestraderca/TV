@@ -30,6 +30,48 @@
         "ratio": 1.5
       }
     },
+{
+            "key": "lf_js_search",
+            "name": "🧠路飞|搜索",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "api": "./js/lf_search3_min.js"
+        },
+        {
+            "key": "lf_js_p2p",
+            "name": "🧠路飞|磁搜",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "api": "./js/lf_p2p2_min.js"
+        },
+        {
+            "key": "lf_js_ikanbot",
+            "name": "🧠点播|路飞",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "./js/lf_ikanbot5_2_min.js"
+        },
+        {
+            "key": "lf_js_lf_live",
+            "name": "🧠直播|路飞",
+            "type": 3,
+            "api": "./js/lf_live_min.js",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./live/lf_live.txt"
+        },
          {
             "key": "Miss",
             "name": "🔞MissAV┃科学",
